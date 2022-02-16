@@ -26,13 +26,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github.com/SLAST1/SLAST1/blob/main/sn_icons/telegram.png" alt="tg"/>
 </a>
 </p>
-<a href="https://vk.com/yanniku">
-  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
-</a>
-<a href="https://t.me/yanniku">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
 
   
 **Languages and Tools:**  
