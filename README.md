@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://https://vk.com/rigo_rigo_lab6">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
-<a href="https://t.me/your_profile">
+<a href="https://t.me/yanniku">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
