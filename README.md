@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github.com/SLAST1/SLAST1/blob/main/sn_icons/vk.png" alt="vk"/>
 </a>
 
-  <a href="https://t.me/yanniku">
+  <a href="https://t.me/yanbori">
   <img align="center" src="https://github.com/SLAST1/SLAST1/blob/main/sn_icons/telegram.png" alt="tg"/>
 </a>
 </p>
