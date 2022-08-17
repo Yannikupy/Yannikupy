@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 <br />
-<img align="center" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/40dEau6bZRO3S/giphy.gif" />
+<img align="center" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/iNJ1Ugw91wgDtHQkgS/giphy-downsized-large.gif" />
 <p align="center">
