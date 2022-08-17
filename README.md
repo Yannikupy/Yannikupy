@@ -36,3 +36,7 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+<br />
+<img align="center" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/40dEau6bZRO3S/giphy.gif" />
+<p align="center">
