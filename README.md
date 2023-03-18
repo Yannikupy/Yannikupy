@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yannikupy&hide=rich%20text%20format,jupyter%20notebook,scheme&layout=compact&langs_count=8&custom_title)" alt="Yannikupy"/>
   
 **Languages and Tools:**  
 
