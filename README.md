@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
-<code><img height="50" src="https://blog.skillfactory.ru/wp-content/uploads/2022/06/hibernate_logo_a-3898919.png"></code>
+<code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3hKD_kQ6HMe-mQy5N63B-nOTtrN60xy98qts6CpIg5WcdGhrXbCacPJ8Vr60IgyeHjIM&usqp=CAU"></code>
+<code><img height="50" src="https://logo-download.com/wp-content/data/images/png/RabbitMQ-logo.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gradle_logo.png"></code>
 <code><img height="50" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
